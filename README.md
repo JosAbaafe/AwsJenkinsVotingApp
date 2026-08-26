@@ -4,6 +4,7 @@
 
 This project demonstrates a **Continuous Integration and Continuous Deployment (CI/CD)** pipeline using **Jenkins, Docker, Docker Compose, and Trivy**. 
 
+
 The pipeline automatically builds, scans, deploys, and validates the application whenever new code is pushed to the `main` branch.
 
 ### CI/CD Workflow
