@@ -1,6 +1,6 @@
 # 🚀 CI/CD Pipeline for the Example Voting Application
 
-## 📖 Overview
+##  📖 Overview
 
 This project demonstrates a **Continuous Integration and Continuous Deployment (CI/CD)** pipeline using **Jenkins, Docker, Docker Compose, and Trivy**. 
 
