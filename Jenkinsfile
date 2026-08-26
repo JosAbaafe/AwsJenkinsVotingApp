@@ -3,9 +3,9 @@ pipeline {
     agent any
 
      environment {
-         GITHUB_REPO = 'https://github.com/JosAbaafe/example-voting-app.git'
+         GITHUB_REPO = 'https://github.com/JosAbaafe/AwsJenkinsVotingApp.git'
          STAGING_EMAIL = 'billmanuel9@gmail.com'
-         PRODUCTION_EMAIL = 'production-team@example.com'
+         PRODUCTION_EMAIL = 'billmanuel9@gmail.com'
     }
     
     stages {
