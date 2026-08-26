@@ -9,7 +9,7 @@ The pipeline automatically builds, scans, deploys, and validates the application
 
 ### CI/CD Workflow
 
-```text
+```text 
 Developer
     │
     │ git push
